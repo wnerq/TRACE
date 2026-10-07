@@ -29,7 +29,7 @@ You do **not** need to understand how the system works to use TRACE.
 
 A useful problem report answers five questions:
 
-| | | |
+| | | | |
 |---|---|---|---|
 | **T**| **Task**  | What were you doing? | Establish the situation and context. |
 | **R**| **Result**  | What actually happened? | Describe the observed result. |
