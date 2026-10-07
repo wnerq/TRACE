@@ -30,12 +30,12 @@ You do **not** need to understand how the system works to use TRACE.
 A useful problem report answers five questions:
 
 | | | |
-|---|---|---|
-| **T — Task** | What were you doing? | Establish the situation and context. |
-| **R — Result** | What actually happened? | Describe the observed result. |
-| **A — Achieve** | What did you want or expect to happen? | Establish the intended result. |
-| **C — Clues** | What evidence or additional observations do you have? | Capture information that may help explain or reproduce the problem. |
-| **E — Extent** | What is the extent of your observations? What is affected, and what still works? | Establish the boundaries of what you actually know. |
+|---|---|---|---|
+| **T**| **Task**  | What were you doing? | Establish the situation and context. |
+| **R**| **Result**  | What actually happened? | Describe the observed result. |
+| **A**| **Achieve** | What did you want or expect to happen? | Establish the intended result. |
+| **C**| **Clues** | What evidence or additional observations do you have? | Capture information that may help explain or reproduce the problem. |
+| **E**| **Extent** | What is the extent of your observations? What is affected, and what still works? | Establish the boundaries of what you actually know. |
 
 The goal is **not** to produce a perfect technical diagnosis.
 
